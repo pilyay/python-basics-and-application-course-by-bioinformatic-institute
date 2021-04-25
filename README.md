@@ -9,6 +9,6 @@
 В конце курса мы рассмотрим реальные задачи, с которыми может столкнуться современный человек, и научимся их решать средствами языка Python.
 	
 * :books: **Содержание**
-	* :abacus: [Решение задач курса](https://github.com/pilyay/python-basics-and-application-course-by-bioinformatic-institute/blob/main/tasks/phyton_basics_and_application.ipynb)
+	* :closed_book: [Решение задач курса](https://github.com/pilyay/python-basics-and-application-course-by-bioinformatic-institute/blob/main/tasks/phyton_basics_and_application.ipynb)
 
 * :globe_with_meridians: <https://stepik.org/course/512/>
