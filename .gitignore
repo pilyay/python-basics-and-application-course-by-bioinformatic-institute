@@ -1,7 +1,6 @@
 .DS_store
 .ipynb_checkpoints/
-manuals/
-datasets/
+.idea/
+webinars/
 *.csv
-.gitattributes
 original.ipynb
